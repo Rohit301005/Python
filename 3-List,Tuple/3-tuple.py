@@ -1,0 +1,5 @@
+tuple = (1,2,34)
+x = ("rohit","kumar","rawat")
+print(tuple)
+print(type(tuple))
+print(x)
