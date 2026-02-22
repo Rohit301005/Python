@@ -39,13 +39,16 @@ class Boy(Human,Male):
 
 
 B1 = Boy("Rohit",1,"Python")
-print(B1.num_eyes)
-print(B1.name)
-print(f"i have only {B1.heart} heart")
-print(B1.language)
+# print(B1.num_eyes)
+# print(B1.name)
+# print(f"i have only {B1.heart} heart")
+# print(B1.language)
 
-B1.display()
+# B1.display()
 # B1.eat()
 # B1.work()
 # Male.work(B1)
 # Human.work(B1)
+
+Male.work(B1)
+Human.work(B1)
