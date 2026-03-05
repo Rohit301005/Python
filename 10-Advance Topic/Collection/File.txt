@@ -1,0 +1,13 @@
+In collections we are going to cover  this topic
+
+# collections : collections is a built-in Python module that provides specialized data structures beyond the basic ones (list, tuple, set, dict).
+
+1.Counter
+
+2.NamedTuple
+
+3.OrderedDict
+
+4.DefaultDict
+
+%.Deque
